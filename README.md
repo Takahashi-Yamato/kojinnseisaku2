@@ -42,3 +42,4 @@
 スクリーンショット
 
 <img width="2280" height="1406" alt="スクリーンショット 2026-11-20 133021" src="https://github.com/user-attachments/assets/15aa8065-6571-4768-a7fe-cc56386dffbb" />
+<img width="1914" height="1074" alt="image" src="https://github.com/user-attachments/assets/33fc86a3-bdc2-46f3-b78e-ba1e68e637fd" />
