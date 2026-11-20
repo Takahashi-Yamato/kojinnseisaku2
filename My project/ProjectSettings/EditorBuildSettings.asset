@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Title.unity
+    guid: 6569148889772db4db887db61019347b
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: "Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB.unity"
+    guid: 919b5a6e2966b2341a6ea9d76a3d930f
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample00.unity
+    guid: 9c92a4acd13b20b40b86ad21868e5e27
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample01.unity
+    guid: e51cc4e96e3a5394faf5681b765ae75b
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample02.unity
+    guid: 3fe2e46ba61b8c644b4316502c5a206c
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample03.unity
+    guid: ac4733d3b0892334580949785d3f2bd3
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample04.unity
+    guid: eb602cdcefcf6034180be36708c61691
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample05.unity
+    guid: 41bacde4e0381a74088e0744cbf84275
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample06.unity
+    guid: 2c194dcdde3da59408d394f8ba11a99f
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample07.unity
+    guid: 2e22b0c4f15f9d946a70eded3d7c3c27
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample08.unity
+    guid: 68c20cf7efcfc774c8d09b0c95adceb0
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample09.unity
+    guid: f80c62c68ac4f4147a7b7b09e4c12734
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample10.unity
+    guid: 5a912fd8a5c35af4dbb8f7306d896305
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample11.unity
+    guid: cba08dcd68451fa468de4f4d5dbf9b67
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample12.unity
+    guid: 2375d3c7c4855aa4892566bf86de1ad4
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample13.unity
+    guid: f5b91acf892897f45ba8fdc2219ed7ec
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample14.unity
+    guid: 7aba813277160084891fd863388250e0
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Samples/Sample15.unity
+    guid: 4abcf402fdc86124b83e15fc5b4c928e
+  - enabled: 1
+    path: Assets/CubeOrbit_Unity/CubeOrbit/Stages/Result.unity
+    guid: dc80196f3f591494692d5d6a90794112
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
